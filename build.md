@@ -8,7 +8,7 @@
 
     echo "this is code"
 
-###### To avoid the need to harcode various path and details we have the option to include a seperate configuration file
+##### To avoid the need to harcode various path and details we have the option to include a seperate configuration file
 
     source settings.cnf
     echo $test_setting
